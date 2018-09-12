@@ -11,7 +11,7 @@ requirements = [
     "ffmpy>=0.2.2",
     "le-utils>=0.1.9",
     "matplotlib==2.0.0",
-    "numpy==1.12.1",
+    "numpy==1.15.1",
     "Pillow>=3.3.1",
     "Wand==0.4.4",
 ]
